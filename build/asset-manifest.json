@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/calc/build/static/css/main.82baa320.chunk.css",
+    "main.js": "/calc/build/static/js/main.400dd661.chunk.js",
+    "main.js.map": "/calc/build/static/js/main.400dd661.chunk.js.map",
+    "runtime-main.js": "/calc/build/static/js/runtime-main.48d7dea9.js",
+    "runtime-main.js.map": "/calc/build/static/js/runtime-main.48d7dea9.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/calc/build/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.4ce4c8d3.chunk.js": "/calc/build/static/js/2.4ce4c8d3.chunk.js",
+    "static/js/2.4ce4c8d3.chunk.js.map": "/calc/build/static/js/2.4ce4c8d3.chunk.js.map",
+    "index.html": "/calc/build/index.html",
+    "precache-manifest.a8623648d2c1ea9d1463e300a9bbbe99.js": "/calc/build/precache-manifest.a8623648d2c1ea9d1463e300a9bbbe99.js",
+    "service-worker.js": "/calc/build/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/calc/build/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.82baa320.chunk.css.map": "/calc/build/static/css/main.82baa320.chunk.css.map",
+    "static/js/2.4ce4c8d3.chunk.js.LICENSE.txt": "/calc/build/static/js/2.4ce4c8d3.chunk.js.LICENSE.txt",
+    "static/media/angle.jpeg": "/calc/build/static/media/angle.862ca2a4.jpeg",
+    "static/media/cProfile.jpeg": "/calc/build/static/media/cProfile.e4b090a3.jpeg",
+    "static/media/hProfile.jpeg": "/calc/build/static/media/hProfile.950c67f9.jpeg",
+    "static/media/iProfile.jpeg": "/calc/build/static/media/iProfile.a419be3f.jpeg",
+    "static/media/square.jpeg": "/calc/build/static/media/square.5f81d029.jpeg",
+    "static/media/tube.jpeg": "/calc/build/static/media/tube.933a0557.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.48d7dea9.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.4ce4c8d3.chunk.js",
+    "static/css/main.82baa320.chunk.css",
+    "static/js/main.400dd661.chunk.js"
+  ]
+}
